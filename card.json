@@ -1,0 +1,9 @@
+﻿{
+  "credit_card": {
+    "name": "John Doe",
+    "number": "4242 4242 4242 4242",
+    "expiration_year": 2030,
+    "expiration_month": 12,
+    "cvv": "123"
+  }
+}

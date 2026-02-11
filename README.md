@@ -1,4 +1,4 @@
-*Description du projet*
+# *Description du projet*
 
 Ce projet est une API REST développée avec Flask permettant :
 
